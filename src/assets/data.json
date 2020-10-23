@@ -1,0 +1,98 @@
+[
+    {
+        "Title": "Nausicaa de la \r\nvalée du vent",
+        "Aviation": 100,
+        "Ecologie": 100,
+        "Politique": 60,
+        "Feminisme": 20,
+        "Enfance": 100,
+        "Eau": 20,
+        "Pacifisme": 0,
+        "Zonegrise": 10,
+        "Amour": 25
+    },
+    {
+        "Title": "Le château\r\ndans le ciel",
+        "Aviation": 90,
+        "Ecologie": 80,
+        "Politique": 20,
+        "Feminisme": 20,
+        "Enfance": 60,
+        "Eau": 20,
+        "Pacifisme": 30,
+        "Zonegrise": 20,
+        "Amour": 50
+    },
+    {
+        "Title": "Mon voisin\r\nTotoro",
+        "Aviation": 30,
+        "Ecologie": 70,
+        "Politique": 0,
+        "Feminisme": 50,
+        "Enfance": 90,
+        "Eau": 30,
+        "Pacifisme": 100,
+        "Zonegrise": 80,
+        "Amour": 100
+    },
+    {
+        "Title": "Kiki la petite\r\nsorcière",
+        "Aviation": 40,
+        "Ecologie": 20,
+        "Politique": 10,
+        "Feminisme": 90,
+        "Enfance": 75,
+        "Eau": 5,
+        "Pacifisme": 40,
+        "Zonegrise": 5,
+        "Amour": 60
+    },
+    {
+        "Title": "Porco\r\nRosso",
+        "Aviation": 100,
+        "Ecologie": 20,
+        "Politique": 60,
+        "Feminisme": 25,
+        "Enfance": 40,
+        "Eau": 70,
+        "Pacifisme": 70,
+        "Zonegrise": 20,
+        "Amour": 50
+    },
+    {
+        "Title": "Princesse\r\nMononoké",
+        "Aviation": 20,
+        "Ecologie": 100,
+        "Politique": 60,
+        "Feminisme": 95,
+        "Enfance": 70,
+        "Eau": 30,
+        "Pacifisme": 0,
+        "Zonegrise": 100,
+        "Amour": 40
+    },
+    {
+        "Title": "Le Voyage\r\nde Chihiro",
+        "Aviation": 30,
+        "Ecologie": 75,
+        "Politique": 20,
+        "Feminisme": 25,
+        "Enfance": 90,
+        "Eau": 15,
+        "Pacifisme": 20,
+        "Zonegrise": 80,
+        "Amour": 70
+    },
+    {
+        "Title": "Le Château\r\nAmbulant",
+        "Aviation": 50,
+        "Ecologie": 20,
+        "Politique": 90,
+        "Feminisme": 60,
+        "Enfance": 50,
+        "Eau": 10,
+        "Pacifisme": 5,
+        "Zonegrise": 20,
+        "Amour": 80
+    }
+]
